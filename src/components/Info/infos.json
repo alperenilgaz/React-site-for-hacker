@@ -1,0 +1,33 @@
+[
+   
+    {
+        "title" : "/bin/sh -c whoami",
+        "comment" : "I'm a Penetration Tester. At least, I'm trying to be. I made some working experience and now I'm studying to get better."
+    },
+    {
+        "title" : "Certification",
+        "comment" : "eJPT,PNPT (todo),eCPPTv2 (todo)"
+    },
+    {
+        
+        "title" : "Skills",
+        "comment" : "My main programming language is Python.Currently studing GoLang and some PHP.I'm fairly experienced in the infosec environment and system automation."
+    },
+    {
+        "title" : "OS in use",
+        "comment" : "I used to use Fedora on my main PC. Now I currently have a Debian server in my room and on my main laptop Windows 10."
+    },
+    {
+        "title" : "Projects",
+        "comment" : "You can find them on my Github page."
+    },
+    {
+        "title" : "Articles",
+        "comment" : "I am working on my personal blog at the following url: blog.jackrendor.dev.I mainly make CTF WriteUps but I also might publish some of my researches."
+    },
+    {
+        "title" : "Website Developer",
+        "comment" : "This side has been made by Alperen İlgaz. Here friend's account on",
+        "github" : "https://github.com/alperenilgaz"
+    }
+]
